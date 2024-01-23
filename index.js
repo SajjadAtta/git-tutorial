@@ -1,1 +1,1 @@
-console.log('index.js 3')
+console.log('index.js')
